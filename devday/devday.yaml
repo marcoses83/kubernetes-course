@@ -30,4 +30,3 @@ spec:
         image: mesdevday.azurecr.io/devday
         ports:
         - containerPort: 80
----
